@@ -1,2 +1,2 @@
-# database
+# hospital appoinment system
 mysql
